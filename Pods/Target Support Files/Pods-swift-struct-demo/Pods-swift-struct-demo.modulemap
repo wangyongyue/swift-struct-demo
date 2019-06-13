@@ -1,0 +1,6 @@
+framework module Pods_swift_struct_demo {
+  umbrella header "Pods-swift-struct-demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
